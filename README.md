@@ -128,9 +128,4 @@ jupyter notebook
 
 This project demonstrates end-to-end data analysis, combining Python, SQL, and visualization tools to generate insights and present them effectively.
 
----
 
-If you want, I can also:
-
-* Customize this README based on your **exact dataset/project**
-* Add **GitHub badges, screenshots, or portfolio-level styling** to make it stand out 🚀
